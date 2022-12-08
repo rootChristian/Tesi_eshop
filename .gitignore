@@ -1,0 +1,13 @@
+# misc
+.DS_Store
+
+# Package node module
+/node_modules
+
+# dotenv environment variables file
+.env
+
+# frontend
+/../frontend
+
+/../README.md
